@@ -54,6 +54,6 @@ Dos artículos en revistas científicas:
 
 ###Referencias
 
-Richard Stallman. (2015, septiembre 29). En Wikipedia, la enciclopedia libre. Recuperado a partir de https://es.wikipedia.org/w/index.php?title=Richard_Stallman&oldid=85453452
+Richard Stallman. (2015, septiembre 29). En Wikipedia, la enciclopedia libre. Recuperado a partir de https://es.wikipedia.org/w/index.php?title=Richard_Stallman&oldid=85453452  
 Richard Stallman - Wikiquote. (s/f). Recuperado el 29 de septiembre de 2015, a partir de https://es.wikiquote.org/wiki/Richard_Stallman
 
